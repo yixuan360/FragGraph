@@ -100,3 +100,7 @@ cd data
 ## 说明
 
 本项目为郑州大学数据结构课程作业的整理版本。原始开发过程保留在 `stages/` 中，最终版位于 `src/main.c`。
+
+## License
+
+[MIT](LICENSE)
